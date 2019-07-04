@@ -4,4 +4,4 @@ In this project, we localized a robot in a simulated environment using the AMCL 
 
 ### Environment Description
 
-<img src="images/trained_agent.gif" width="50%" align="top-left" alt="" title="Reacher" />
+<img src="image/LocalizedRobot1_RVIZ.png" width="50%" align="top-left" alt="" title="Reacher" />

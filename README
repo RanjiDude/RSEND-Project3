@@ -1,7 +1,0 @@
-# Robotic Software Engineering Nanodegree-Project3 (Where am I?)
-
-In this project, we localized a robot in a simulated environment using the AMCL (Adaptive Monte Carlo Localization) package in ROS.
-
-### Environment Description
-
-<img src="image/LocalizedRobot1_RVIZ.png" width="50%" align="top-left" alt="" title="Reacher" />
